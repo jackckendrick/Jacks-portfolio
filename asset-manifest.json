@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Jacks-portfolio/static/css/main.6ea887f4.css",
+    "main.js": "/Jacks-portfolio/static/js/main.41092baa.js",
+    "static/media/barkbook_gif.gif": "/Jacks-portfolio/static/media/barkbook_gif.5a306dca79d951929489.gif",
+    "static/media/Neighborhood-navigator_gif.gif": "/Jacks-portfolio/static/media/Neighborhood-navigator_gif.79562f081e20312e393c.gif",
+    "static/media/category_gif.gif": "/Jacks-portfolio/static/media/category_gif.42009cc92efaa8c2b93a.gif",
+    "static/media/workday-scheduler_gif.gif": "/Jacks-portfolio/static/media/workday-scheduler_gif.ce12cbf9c4032c3aaab7.gif",
+    "static/media/Raincheck_gif.gif": "/Jacks-portfolio/static/media/Raincheck_gif.d529c58baaf2c6378718.gif",
+    "static/media/Jack Kendrick Resume 2023 copy.pdf": "/Jacks-portfolio/static/media/Jack Kendrick Resume 2023 copy.c26b58fa4c8f2aeb464b.pdf",
+    "static/media/avatar.PNG": "/Jacks-portfolio/static/media/avatar.c558f285ea6fc1c0d437.PNG",
+    "static/media/stickynotes_gif.gif": "/Jacks-portfolio/static/media/stickynotes_gif.e5ed337448a1141f7994.gif",
+    "index.html": "/Jacks-portfolio/index.html",
+    "main.6ea887f4.css.map": "/Jacks-portfolio/static/css/main.6ea887f4.css.map",
+    "main.41092baa.js.map": "/Jacks-portfolio/static/js/main.41092baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea887f4.css",
+    "static/js/main.41092baa.js"
+  ]
+}
