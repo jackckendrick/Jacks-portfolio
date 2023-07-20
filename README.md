@@ -21,7 +21,6 @@ In the React portfolio application, you will find:
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
@@ -34,18 +33,13 @@ To run this application:
 
 ## Usage
 
-Here are some screenshots of the application:
+Here is a gif demopnstrating the functionality of the application:
 
-![About Me](./src/assets/images/AboutMe.png)
-![Portfolio](./src/assets/images/Portfolio.png)
-![Portfolio Hover](./src/assets/images/PortfolioHover.png)
-![Contact Form](./src/assets/images/ContactMe.png)
-![Contact Form Validation](./src/assets/images/ContactForm.png)
-![Resume](./src/assets/images/Resume.png)
+![About Me](./src/images/reactdemo.gif)
 
 You can access the functional, deployed application at: [Jack Kendrick's Portfolio](https://jackkendrick.github.io/Portfolio-Page/)
 
-The GitHub repository for this portfolio can be found here: [Jack's Portfolio Repo](https://github.com/YourGitHubUsername/YourRepoName)
+The GitHub repository for this portfolio can be found here: [Jack's Portfolio Repo](https://github.com/jackckendrick/Jacks-portfolio)
 
 ## License
 
