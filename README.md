@@ -37,7 +37,7 @@ Here is a gif demopnstrating the functionality of the application:
 
 ![About Me](./src/images/reactdemo.gif)
 
-You can access the functional, deployed application at: [Jack Kendrick's Portfolio](https://jackkendrick.github.io/Portfolio-Page/)
+You can access the functional, deployed application at: [Jack Kendrick's Portfolio](https://jackckendrick.github.io/Jacks-portfolio/)
 
 The GitHub repository for this portfolio can be found here: [Jack's Portfolio Repo](https://github.com/jackckendrick/Jacks-portfolio)
 
