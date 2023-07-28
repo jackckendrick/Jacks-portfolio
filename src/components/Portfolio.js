@@ -4,7 +4,7 @@ import Raincheck from '../images/Raincheck_gif.gif';
 import Neighborhood from '../images/Neighborhood-navigator_gif.gif';
 import Workday from '../images/workday-scheduler_gif.gif';
 import Bark from '../images/barkbook_gif.gif';
-import Sticky from '../images/stickynotes_gif.gif';
+import bringMe from '../images/bringMe_gif.gif';
 import shopster from '../images/category_gif.gif';
 const projectData = [
     {
@@ -33,8 +33,8 @@ const projectData = [
     },
     {
         id: 5,
-        name: 'Sticky Notes',
-        image:  Sticky,
+        name: 'Bring Me',
+        image:  bringMe,
         github: "https://github.com/jackckendrick/sticky-notes",
     },
     {
