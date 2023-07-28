@@ -35,7 +35,7 @@ const projectData = [
         id: 5,
         name: 'Bring Me',
         image:  bringMe,
-        github: "https://github.com/jackckendrick/sticky-notes",
+        github: "https://github.com/MogleyBear06/Bring-Me",
     },
     {
         id: 6,
